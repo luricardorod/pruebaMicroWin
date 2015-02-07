@@ -1,0 +1,14 @@
+{
+  "name": "pruebamicro",
+  "version": "1.0.0",
+  "description": "Prueba microfono",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lu",
+  "license": "ISC",
+  "dependencies": {
+    "microphone": "^1.0.8"
+  }
+}
